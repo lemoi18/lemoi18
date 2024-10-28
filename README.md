@@ -3,6 +3,7 @@
 # 👋 Hi, I'm Lars-Erik Bakkland Moi
 
 🎓 Master's student in Artificial Intelligence (AI) and Internet of Things (IoT) at the University of Agder. Passionate about creating innovative solutions in AI, with a focus on speech technologies like Automatic Speech Recognition (ASR) and Text-to-Speech (TTS).
+
 💡 My current projects include exploring phonetic ASR models, voice conversion, and Retrieval-Augmented Generation (RAG) systems. I'm working on developing robust solutions for Norwegian language tasks using both BERT and Conformer models.
 ---
 
