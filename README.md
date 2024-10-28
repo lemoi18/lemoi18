@@ -18,21 +18,11 @@
 
 ## 🌟 Featured Work
 
-- 🧪 **[My WandB Activity](https://wandb.ai/your_username)**: Check out my latest experiments, including ASR performance metrics and TTS training visualizations.
+- 🧪 - **WandB Activity:** [![WandB](https://img.shields.io/badge/WandB-View%20Profile-blue)](https://wandb.ai/lemoi18): Check out my latest experiments, including ASR performance metrics and TTS training visualizations.
 - 🌐 **[My Portfolio](https://github.com/your_username)**: Explore my projects, including:
   - A Streamlit app for ASR text-mel alignment.
   - Retrieval-Augmented Generation (RAG) system with Azure Search integration.
   - Diffusion Transformer models with LoRA for voice synthesis.
-
----
-
-## 📊 GitHub & WandB Activity
-
-- **GitHub Activity:** ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lemoi18&show_icons=true&theme=radical)
-- **WandB Activity:** [![WandB](https://img.shields.io/badge/WandB-View%20Profile-blue)](https://wandb.ai/lemoi18)
-
-
----
 
 ## 📚 Recent Achievements
 
