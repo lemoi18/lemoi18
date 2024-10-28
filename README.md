@@ -29,7 +29,8 @@
 ## 📊 GitHub & WandB Activity
 
 - **GitHub Activity:** ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lemoi18&show_icons=true&theme=radical)
-- **WandB Activity:** [![WandB](https://api.wandb.ai/links/lemoi18/your_project_name.svg)](https://wandb.ai/lemoi18)
+- **WandB Activity:** [![WandB](https://img.shields.io/badge/WandB-View%20Profile-blue)](https://wandb.ai/lemoi18)
+
 
 ---
 
