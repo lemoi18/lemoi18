@@ -11,7 +11,7 @@
 ## 🔭 What I'm Working On
 
 - **ASR & TTS Models:** Developing Joint CTC-S2S phoneme-level ASR models for voice conversion and alignment tasks, along with phonetic BERT models.
-- **Text Normalization:** Building efficient pipelines for text normalization in Norwegian using **under development**.
+- **Text Normalization:** Building efficient pipelines for text normalization in Norwegian using BERT models.
 - **Azure & Cloud Technologies:** Mastering Microsoft Azure with a focus on optimizing Virtual Machines, Azure AI services, and integrating these with AI models.
 
 ---
